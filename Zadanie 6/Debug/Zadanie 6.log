@@ -1,0 +1,7 @@
+﻿  Zadanie 6.cpp
+c:\users\kamil\desktop\grafika\zadanie 6\zadanie 6\zadanie 6\zadanie 6.cpp(351): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 6\zadanie 6\zadanie 6\zadanie 6.cpp(356): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 6\zadanie 6\zadanie 6\zadanie 6.cpp(417): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\desktop\grafika\zadanie 6\zadanie 6\zadanie 6\zadanie 6.cpp(419): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zadanie 6.vcxproj -> C:\Users\Kamil\Desktop\Grafika\Zadanie 6\Zadanie 6\Debug\Zadanie 6.exe
+  Zadanie 6.vcxproj -> C:\Users\Kamil\Desktop\Grafika\Zadanie 6\Zadanie 6\Debug\Zadanie 6.pdb (Partial PDB)
